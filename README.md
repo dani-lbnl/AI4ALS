@@ -1,7 +1,7 @@
 # AI4ALS
 AI for ALS projects
 
-This material contains accomplishments related to the DOE ASCR ECRP project called Image across Domains, Experiments, Algorithms and Learning (IDEAL). This is a compact version of talk previously shown at <a href="https://github.com/dani-lbnl/wids2020">WiDS'20</a>.
+This material contains accomplishments related to the DOE ASCR ECRP project called Image across Domains, Experiments, Algorithms and Learning (IDEAL), including new ideas about Auto-ML. Besides materials science done at the ALS, this work has also impact to Bioimaging sciences - more info at my <a href="https://github.com/dani-lbnl/wids2020">WiDS'20 keynote</a>.
 
 <table border="0">
  <tr>
@@ -11,7 +11,7 @@ This material contains accomplishments related to the DOE ASCR ECRP project call
      <p>
       - Presentation: <a href=SAGE_dani_vision_compact.pdf>[here]</a>
       <p>
-      - Video: <a href=https://drive.google.com/file/d/1Df166MV5ADXY4Sv53V8xHNid58dEFhrr/view?usp=sharing>[here]</a>
+      - Code: <a href=https://drive.google.com/file/d/1Df166MV5ADXY4Sv53V8xHNid58dEFhrr/view?usp=sharing>[here]</a>
        <p>
       - More info about science projects: <a href=https://bit.ly/idealdatascience> [here] </a>
        <p>
