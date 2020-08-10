@@ -15,7 +15,7 @@ It contains accomplishments related to the DOE ASCR ECRP project called Image ac
       <p>
       - Codes: <a href="https://bit.ly/dxc2020">[here]</a>
        <p>
-      - More info about science projects: <a href="https://bit.ly/idealdatascience"> [here] </a>
+      - What is IDEAL? <a href="https://bit.ly/idealdatascience"> [here] </a>
       </td>
  </tr>
 </table>
