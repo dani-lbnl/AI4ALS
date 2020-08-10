@@ -13,13 +13,18 @@ It contains accomplishments related to the DOE ASCR ECRP project called Image ac
      <p>
       - Presentation: <a href=SAGE_dani_vision_compact.pdf>[here]</a>
       <p>
-      - Code: <a href=https://drive.google.com/file/d/1Df166MV5ADXY4Sv53V8xHNid58dEFhrr/view?usp=sharing>[here]</a>
+      - Codes: <a href="https://bit.ly/dxc2020">[here]</a>
        <p>
-      - More info about science projects: <a href=https://bit.ly/idealdatascience> [here] </a>
+      - More info about science projects: <a href="https://bit.ly/idealdatascience"> [here] </a>
       </td>
  </tr>
 </table>
 
 ## Getting started? We can help!
-1. Basics of Image Processing in Python: <a href=https://datacarpentry.org/image-processing/> [here] </a>
-2. 3D Image processing: 
+1. Basics of Image Processing in Python: <a href="https://datacarpentry.org/image-processing/"> [here] </a>
+2. 3D Image processing (include Google Colab): <a href="https://github.com/CameraIA/dipmicroct"> [here] </a>
+3. Concrete multi-phase: <a href="https://bit.ly/dxc2020"> [here] </a>
+
+## Need data to kick-off? We can help!
+1. Fiber/no-fiber cross-sections: <a href="https://drive.google.com/file/d/1p0gjquI5MLu7BGrRV-BNOJTswdDuAVsG/view?usp=sharing"> [here] </a>
+2. Full stack microCT - concrete: <a href="https://zenodo.org/record/3890837#.Xue18WpKiA1"> [here] </a>
