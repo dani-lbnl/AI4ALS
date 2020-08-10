@@ -7,7 +7,7 @@ It contains accomplishments related to the DOE ASCR ECRP project called Image ac
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/dani-lbnl/IDEAL/blob/master/IDEAL_logo.png" width="400">
+    <td><img src="https://github.com/dani-lbnl/IDEAL/blob/master/IDEAL_logo.png" width="200">
     </td>
     <td>
      <p>
@@ -16,9 +16,10 @@ It contains accomplishments related to the DOE ASCR ECRP project called Image ac
       - Code: <a href=https://drive.google.com/file/d/1Df166MV5ADXY4Sv53V8xHNid58dEFhrr/view?usp=sharing>[here]</a>
        <p>
       - More info about science projects: <a href=https://bit.ly/idealdatascience> [here] </a>
-       <p>
-      - Getting started? Image processing in python: <a href=https://datacarpentry.org/image-processing/> [here] </a>
       </td>
  </tr>
 </table>
 
+## Getting started? We can help!
+1. Basics of Image Processing in Python: <a href=https://datacarpentry.org/image-processing/> [here] </a>
+2. 3D Image processing: 
