@@ -1,7 +1,9 @@
 # AI4ALS
-AI for ALS projects
+AI for ALS research
 
-This material contains accomplishments related to the DOE ASCR ECRP project called Image across Domains, Experiments, Algorithms and Learning (IDEAL), including new ideas about Auto-ML. Besides materials science done at the ALS, this work has also impact to Bioimaging sciences - more info at my <a href="https://github.com/dani-lbnl/wids2020">WiDS'20 keynote</a>.
+This material refers to my presentation at the <a href="https://sites.google.com/lbl.gov/aiml-for-als-research-if/home"> AI/ML for ALS Research Innovation Forum </a> in Aug 11th 2020.
+
+It contains accomplishments related to the DOE ASCR ECRP project called Image across Domains, Experiments, Algorithms and Learning (IDEAL), including new ideas about Auto-ML. Besides materials science done at the ALS, this work has also impact to Bioimaging sciences - more info at my <a href="https://github.com/dani-lbnl/wids2020">WiDS'20 keynote</a>.
 
 <table border="0">
  <tr>
