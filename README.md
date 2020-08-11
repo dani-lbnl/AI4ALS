@@ -11,7 +11,7 @@ It contains accomplishments related to the DOE ASCR ECRP project called Image ac
     </td>
     <td>
      <p>
-      - Presentation: <a href=SAGE_dani_vision_compact.pdf>[here]</a>
+      - Presentation: <a href=https://github.com/dani-lbnl/AI4ALS/blob/master/AutoML_ushizima.pdf>[here]</a>
       <p>
       - Codes: <a href="https://bit.ly/dxc2020">[here]</a>
        <p>
